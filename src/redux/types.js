@@ -1,0 +1,6 @@
+export const ADD_IN_BASKET = 'ADD_IN_BASKET'
+export const DELETE_IN_BASKET = 'DELETE_IN_BASKET'
+export const CREATE_PRODUCT = 'CREATE_PRODUCT'
+
+export const SHOW_ADD_ALERT = 'SHOW_ADD_ALERT'
+export const HIDE_ADD_ALERT = 'HIDE_ADD_ALERT'
